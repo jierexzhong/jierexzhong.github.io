@@ -3,7 +3,7 @@
 ## 🎙 Speech Synthesis
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS AMI 2024</div><img src='images/ACS AMI 2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS AMI 2024</div><img src='images/ACS AMI 2024.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Triterpene-Based Prodrug for Self-Boosted Drug Release and Targeted Oral Squamous Cell Carcinoma Chemotherapy](https://pubs.acs.org/doi/10.1021/acsami.4c10175) \\
@@ -13,17 +13,13 @@
 </div>
 </div>
 
-[Triterpene-Based Prodrug for Self-Boosted Drug Release and Targeted Oral Squamous Cell Carcinoma Chemotherapy](https://pubs.acs.org/doi/10.1021/acsami.4c10175) \\
-**Jie Zhong**, Guantong He, Xu Ma, Jinhai Ye, Zhuo-Ying Tao, Zhongxian Li, Fuxue Zhang, Peijian Feng, Yuji Wang, Xinmiao Lan, Yu-Xiong Su
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS AMI 2024</div><img src='images/AHM 2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Conformation Dependent Architectures of Assembled Antimicrobial Peptides with Enhanced Antimicrobial Ability](https://onlinelibrary.wiley.com/doi/10.1002/adhm.202301688) \\
+Xinmiao Lan1, **Jie Zhong1**, Regina Huang, Yuhan Liu, Xiaowei Ma, Xuan Li, Dan Zhao, Guangchao Qing, Yuxuan Zhang, Lu Liu, Jinjin Wang, Xu Ma, Ting Luo, Weisheng Guo, Yuji Wang, Li-Li Li, Yu-Xiong Su, Xing-Jie Liang
 
-- **ACS Applied Materials & Interfaces**: 2024, 16, 32, 41960–41972. https://doi.org/10.1021/acsami.4c10175.
-</div>
-</div>
-
-[Triterpene-Based Prodrug for Self-Boosted Drug Release and Targeted Oral Squamous Cell Carcinoma Chemotherapy](https://pubs.acs.org/doi/10.1021/acsami.4c10175) \\
-**Jie Zhong**, Guantong He, Xu Ma, Jinhai Ye, Zhuo-Ying Tao, Zhongxian Li, Fuxue Zhang, Peijian Feng, Yuji Wang, Xinmiao Lan, Yu-Xiong Su
-
-- **ACS Applied Materials & Interfaces**: 2024, 16, 32, 41960–41972. https://doi.org/10.1021/acsami.4c10175.
+- **Advanced Healthcare Materials**: 2023 Nov;12(29):e2301688. https://doi.org/10.1002/adhm.202301688.
 </div>
 </div>
 
