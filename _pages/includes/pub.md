@@ -25,7 +25,7 @@ Xinmiao Lan1, **Jie Zhong1**, Regina Huang, Yuhan Liu, Xiaowei Ma, Xuan Li, 
 
 - ``Nanoscale 2024`` [Nano-PROTACs: state of the art and perspectives](https://pubs.rsc.org/en/content/articlelanding/2024/nr/d3nr06059d), **Jie Zhong**, Ruiqi Zhao, Yuji Wang, et al. 
 - ``Pharm Res 2023`` [Bone-Targeted Dual Functional Lipid-Coated Drug Delivery System for Osteosarcoma Therapy](https://link.springer.com/article/10.1007/s11095-022-03430-8), **Jie Zhong**, Weiye Wen, Jinjin Wang, et al.
-- ``Biomaterials 2021`` [High-quality milk exosomes as oral drug delivery system.](https://linkinghub.elsevier.com/retrieve/pii/S0142-9612(21)00483-X), **Jie Zhong**, Bozhang Xia, Shaobo Shan, et al.
+- ``Biomaterials 2021`` [High-quality milk exosomes as oral drug delivery system](https://linkinghub.elsevier.com/retrieve/pii/S0142-9612(21)00483-X), **Jie Zhong**, Bozhang Xia, Shaobo Shan, et al.
 
 
 ## Others
