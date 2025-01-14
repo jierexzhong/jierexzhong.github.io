@@ -13,7 +13,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS AMI 2024</div><img src='images/AHM 2023.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AHM 2023</div><img src='images/AHM 2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Conformation Dependent Architectures of Assembled Antimicrobial Peptides with Enhanced Antimicrobial Ability](https://onlinelibrary.wiley.com/doi/10.1002/adhm.202301688) \\
