@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yi Ren (任意)"
-description              : "Research scientist in TikTok, Data-Speech Dept. Focusing on speech, NLP and music."
+title                    : "Jie Zhong (钟杰)"
+description              : "PhD candidate at The University of Hong Kong."
 repository               : "rayeren/rayeren.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,13 +23,13 @@ baidu_site_verification  : code-ZxFK3f4pfb
 author:
   name             : "Yi Ren (任意)"
   avatar           : "images/ry_profile.jpeg"
-  bio              : "TikTok"
-  location         : "Singapore"
+  bio              : 
+  location         : "Hong Kong"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
-  email            : "rayeren613@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "rexzhong@connect.hku.hk"
+  researchgate     :  # example: "https://www.researchgate.net/profile/Jie-Zhong-17"
   uri              :
   bitbucket        :
   codepen          :
