@@ -1,5 +1,5 @@
 
-# :page_facing_up: Publications 
+# :memo: Publications 
 ## First/Corresponding Author
 
 
