@@ -1,4 +1,4 @@
-I am now a PhD candidate at [Faculty of Dentistry](https://facdent.hku.hk/), The University of Hong Kong, supervised by Prof. [Richard Yu-Xiong Su](https://facdent.hku.hk/people/professoriate-staff/profile/richsu).
+I am now a PhD candidate at [Faculty of Dentistry](https://facdent.hku.hk/), The University of Hong Kong, supervised by [Prof. Richard Yu-Xiong Su](https://facdent.hku.hk/people/professoriate-staff/profile/richsu).
 
 I graduated from [China Pharmaceutical University](https://www.cpu.edu.cn/) with a bachelor's degree and from [National Center for Nanoscience and Technology](http://nanoctr.cas.cn/), Chinese Academy of Sciences with a master's degree, supervised by [Prof. Xing-Jie Liang](http://edu.nanoctr.cas.cn/zs/dsjs/swxy/202102/t20210225_5960617.html).
 
